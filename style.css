@@ -61,7 +61,7 @@ height: 38px;
 .dino{
     width: 60px;
     height: 70px;
-    background: url(Dino\ T-Rex\ .png) no-repeat;
+    background: url(dino-trex.png) no-repeat;
     background-size: cover;
     position: relative;
     top: 130px;
